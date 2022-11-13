@@ -1,0 +1,66 @@
+mindmap 
+    root((cleva clogs))
+        motivation
+            learn african capitals
+            none spelling focus
+            commit full set to memory 
+            easy practice
+        other applications
+            world capitals cities
+            latin names of plant/fauna
+            language translation of nouns?
+        constraints
+            concept pairs
+            exact one to one
+            revesable
+        features
+            practice mode?
+                can filter to worst
+                no scoreing
+            set up game 
+                pick catagory + sub catagory
+                pick reverse
+            play game
+                scored attempts
+                    top: autofill from all possible
+                    middle: pick from large section
+                    low: pick from small section
+                question order:
+                    random
+            submit score
+        keep scores
+            detail 
+                rule set
+                    top mark score
+                    mid mark score and set size
+                    low mark score and set size
+                game
+                    catergory /subcat
+                    in reverse
+                    answer set 
+                        date
+                        user
+                        answer
+                            mark
+                ranking set
+                    user
+                    total attempts
+                    question
+                        average score
+        question set
+            name
+            question pair
+                cat
+
+                
+
+
+
+
+
+
+        
+            
+
+
+  
