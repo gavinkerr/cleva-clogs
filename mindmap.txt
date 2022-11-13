@@ -49,8 +49,18 @@ mindmap
                         average score
         question set
             name
-            question pair
-                cat
+            question pairs
+                Item1
+                ITem2
+            cats
+                sub cats
+            ITem1 lable
+            Item2 lable
+        tasks
+            Find data sets
+            Design Screen
+            
+            
 
                 
 
